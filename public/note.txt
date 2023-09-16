@@ -1,0 +1,45 @@
+npx create-react-app APPNAME
+npm run dev (cd APPNAME         npm start)
+
+---javascript--- refreshmer for reactjs--
+1. javascript variable
+2. javascript data type 
+3. javascript function 
+4.javascript json method
+
+
+
+javascript variable 
+container for storing data
+ 3 ways to decelere
+  var
+  let 
+  const
+    
+
+
+var:- declare global scope 
+ var x=5;
+ {
+    var x=3;
+
+ }
+ //we can use here the x
+
+let:- 
+introduced in es6 2015
+cannot be redeclared
+must be declared before use
+let have block scope
+
+
+let x="john doe";
+ let x=0;//cannot be redeclared
+ {
+    let x=2;
+ }
+ //x can't be use here
+
+ const:-
+
+ 
